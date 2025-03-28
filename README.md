@@ -1,1 +1,0 @@
-# Person-Detection-and-Tracking-App
